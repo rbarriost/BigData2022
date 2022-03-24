@@ -10,6 +10,6 @@ To start Hadoop:
 
 To start Kafka:
 1. Enter Kafka folder
-2. 2. Run --> docker-compose -f docker-compose.yml up -d
+2. Run --> docker-compose -f docker-compose.yml up -d
 
 I will be updating this file with every new tool that we are going to use
