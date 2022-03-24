@@ -1,0 +1,9 @@
+version: '1'
+
+services:
+  mysql:
+    image: mysql/mysql-server:5.7.22
+    hostname: mysqlserver
+    container_name: mysqlserver
+    ports:
+      - "6603:3306"
